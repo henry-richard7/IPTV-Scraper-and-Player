@@ -59,6 +59,7 @@ namespace IPTV_Scraper
             }
 
             listView1.LargeImageList = images;
+            progressBar1.Visible = false;
         }
 
         private void Form1_Load(object sender, EventArgs e)

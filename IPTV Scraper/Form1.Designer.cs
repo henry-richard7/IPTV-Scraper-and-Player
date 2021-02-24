@@ -33,7 +33,9 @@ namespace IPTV_Scraper
             this.listView1 = new System.Windows.Forms.ListView();
             this.label_Title = new System.Windows.Forms.Label();
             this.panelMainUI = new System.Windows.Forms.Panel();
+            this.progressBar1 = new System.Windows.Forms.ProgressBar();
             this.panel_TV_List = new System.Windows.Forms.Panel();
+            this.pictureCountryFlag = new System.Windows.Forms.PictureBox();
             this.label3 = new System.Windows.Forms.Label();
             this.labelTotalChannels = new System.Windows.Forms.Label();
             this.label2 = new System.Windows.Forms.Label();
@@ -43,8 +45,6 @@ namespace IPTV_Scraper
             this.buttonChannelPrevious = new System.Windows.Forms.Button();
             this.buttonBackMainMenu = new System.Windows.Forms.Button();
             this.listView_channelList = new System.Windows.Forms.ListView();
-            this.pictureCountryFlag = new System.Windows.Forms.PictureBox();
-            this.progressBar1 = new System.Windows.Forms.ProgressBar();
             this.panelMainUI.SuspendLayout();
             this.panel_TV_List.SuspendLayout();
             ((System.ComponentModel.ISupportInitialize)(this.pictureCountryFlag)).BeginInit();
@@ -75,9 +75,9 @@ namespace IPTV_Scraper
             this.label_Title.ForeColor = System.Drawing.Color.White;
             this.label_Title.Location = new System.Drawing.Point(12, 5);
             this.label_Title.Name = "label_Title";
-            this.label_Title.Size = new System.Drawing.Size(633, 51);
+            this.label_Title.Size = new System.Drawing.Size(612, 51);
             this.label_Title.TabIndex = 1;
-            this.label_Title.Text = "Select the country a watch Live TV";
+            this.label_Title.Text = "Select a country to watch Live TV";
             // 
             // panelMainUI
             // 
@@ -90,6 +90,15 @@ namespace IPTV_Scraper
             this.panelMainUI.Name = "panelMainUI";
             this.panelMainUI.Size = new System.Drawing.Size(1026, 659);
             this.panelMainUI.TabIndex = 2;
+            // 
+            // progressBar1
+            // 
+            this.progressBar1.Anchor = ((System.Windows.Forms.AnchorStyles)(((System.Windows.Forms.AnchorStyles.Bottom | System.Windows.Forms.AnchorStyles.Left) 
+            | System.Windows.Forms.AnchorStyles.Right)));
+            this.progressBar1.Location = new System.Drawing.Point(21, 623);
+            this.progressBar1.Name = "progressBar1";
+            this.progressBar1.Size = new System.Drawing.Size(986, 23);
+            this.progressBar1.TabIndex = 2;
             // 
             // panel_TV_List
             // 
@@ -109,6 +118,15 @@ namespace IPTV_Scraper
             this.panel_TV_List.Size = new System.Drawing.Size(1026, 659);
             this.panel_TV_List.TabIndex = 2;
             this.panel_TV_List.Visible = false;
+            // 
+            // pictureCountryFlag
+            // 
+            this.pictureCountryFlag.Location = new System.Drawing.Point(21, 17);
+            this.pictureCountryFlag.Name = "pictureCountryFlag";
+            this.pictureCountryFlag.Size = new System.Drawing.Size(67, 47);
+            this.pictureCountryFlag.SizeMode = System.Windows.Forms.PictureBoxSizeMode.CenterImage;
+            this.pictureCountryFlag.TabIndex = 9;
+            this.pictureCountryFlag.TabStop = false;
             // 
             // label3
             // 
@@ -206,24 +224,6 @@ namespace IPTV_Scraper
             this.listView_channelList.UseCompatibleStateImageBehavior = false;
             this.listView_channelList.View = System.Windows.Forms.View.Tile;
             this.listView_channelList.MouseClick += new System.Windows.Forms.MouseEventHandler(this.listView_channelList_MouseClick);
-            // 
-            // pictureCountryFlag
-            // 
-            this.pictureCountryFlag.Location = new System.Drawing.Point(21, 17);
-            this.pictureCountryFlag.Name = "pictureCountryFlag";
-            this.pictureCountryFlag.Size = new System.Drawing.Size(67, 47);
-            this.pictureCountryFlag.SizeMode = System.Windows.Forms.PictureBoxSizeMode.CenterImage;
-            this.pictureCountryFlag.TabIndex = 9;
-            this.pictureCountryFlag.TabStop = false;
-            // 
-            // progressBar1
-            // 
-            this.progressBar1.Anchor = ((System.Windows.Forms.AnchorStyles)(((System.Windows.Forms.AnchorStyles.Bottom | System.Windows.Forms.AnchorStyles.Left) 
-            | System.Windows.Forms.AnchorStyles.Right)));
-            this.progressBar1.Location = new System.Drawing.Point(21, 623);
-            this.progressBar1.Name = "progressBar1";
-            this.progressBar1.Size = new System.Drawing.Size(986, 23);
-            this.progressBar1.TabIndex = 2;
             // 
             // Form1
             // 
