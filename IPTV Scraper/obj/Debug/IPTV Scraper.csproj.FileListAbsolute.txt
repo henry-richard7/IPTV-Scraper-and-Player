@@ -1,0 +1,15 @@
+C:\Users\Henry Richard J\source\repos\IPTV Scraper\IPTV Scraper\bin\Debug\IPTV Scraper.exe.config
+C:\Users\Henry Richard J\source\repos\IPTV Scraper\IPTV Scraper\bin\Debug\IPTV Scraper.exe
+C:\Users\Henry Richard J\source\repos\IPTV Scraper\IPTV Scraper\bin\Debug\IPTV Scraper.pdb
+C:\Users\Henry Richard J\source\repos\IPTV Scraper\IPTV Scraper\bin\Debug\HtmlAgilityPack.dll
+C:\Users\Henry Richard J\source\repos\IPTV Scraper\IPTV Scraper\bin\Debug\LightWebNetScraper.dll
+C:\Users\Henry Richard J\source\repos\IPTV Scraper\IPTV Scraper\bin\Debug\HtmlAgilityPack.pdb
+C:\Users\Henry Richard J\source\repos\IPTV Scraper\IPTV Scraper\bin\Debug\HtmlAgilityPack.xml
+C:\Users\Henry Richard J\source\repos\IPTV Scraper\IPTV Scraper\obj\Debug\IPTV_Scraper.Form1.resources
+C:\Users\Henry Richard J\source\repos\IPTV Scraper\IPTV Scraper\obj\Debug\IPTV_Scraper.Properties.Resources.resources
+C:\Users\Henry Richard J\source\repos\IPTV Scraper\IPTV Scraper\obj\Debug\IPTV Scraper.csproj.GenerateResource.cache
+C:\Users\Henry Richard J\source\repos\IPTV Scraper\IPTV Scraper\obj\Debug\IPTV Scraper.csproj.CoreCompileInputs.cache
+C:\Users\Henry Richard J\source\repos\IPTV Scraper\IPTV Scraper\obj\Debug\IPTV Scraper.csproj.CopyComplete
+C:\Users\Henry Richard J\source\repos\IPTV Scraper\IPTV Scraper\obj\Debug\IPTV Scraper.exe
+C:\Users\Henry Richard J\source\repos\IPTV Scraper\IPTV Scraper\obj\Debug\IPTV Scraper.pdb
+C:\Users\Henry Richard J\source\repos\IPTV Scraper\IPTV Scraper\obj\Debug\IPTV Scraper.csprojAssemblyReference.cache
