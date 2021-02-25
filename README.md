@@ -17,3 +17,5 @@ If you like my projects then consider making a small donation by clicking below 
 
 ### ⚠ Disclamier
 IPTV scraper and player does not own the streaming links it basically scrapes iptv links from [IPTV cat](https://iptvcat.com/home_5) into one place.
+
+#### Star the Repo in case you liked it :)
