@@ -15,6 +15,14 @@ If you like my projects then consider making a small donation by clicking below 
 <br/>
 [![Donate](https://img.shields.io/badge/Donate-PayPal-blue.svg)](https://www.paypal.com/paypalme/henryrics)
 
+# My Youtube Channel
+[![](https://img.shields.io/badge/Subscribe-red?style=for-the-badge&logo=YouTube)](https://www.youtube.com/channel/UCVGasc5jr45eZUpZNHvbtWQ)
+
+[![](https://img.shields.io/youtube/channel/subscribers/UCVGasc5jr45eZUpZNHvbtWQ?style=social)](https://www.youtube.com/channel/UCVGasc5jr45eZUpZNHvbtWQ)
+
+# My Telegram Channel
+[![](https://img.shields.io/badge/Telegram-Join%20Now-blue?style=for-the-badge&logo=Telegram)](https://t.me/cracked4free)
+
 ### ⚠ Disclamier
 IPTV scraper and player does not own the streaming links it basically scrapes iptv links from [IPTV cat](https://iptvcat.com/home_5) into one place.
 
